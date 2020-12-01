@@ -1,4 +1,4 @@
-# ML-Group-Assignment (Team of 3 members)
+# ML-Group-Assignment (Team of 3 students)
 Training a classifier to predict whether a Windows machine can detect a Malware or not
 
 Steps for Model Building:
